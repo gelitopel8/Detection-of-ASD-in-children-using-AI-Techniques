@@ -1,7 +1,7 @@
 # Detection of ASD in children using AI Techniques
 Bachelor's Final Project by Angel Ordoñez Prendes.
 
-It consist on extensive research of ```ASD Detection``` methods using new ```AI Techniques```.
+It consist on extensive research of ```ASD Detection``` methods using new ```AI Techniques``` using ```TensorFlow``` Tools.
 * Use of ```Machine Learning``` Techniques on analythical methods.
 * Use of ```Deep Learning``` Techniques on eye tracking samples.
 
